@@ -7,5 +7,6 @@ int main() {
     for(int i = 0; i < 10 ; i++){
         cout << i << i * 2 << endl;
     }
+    cout << "test" << endl;
     return 0;
 }
